@@ -1,5 +1,4 @@
 ### Hi👋, I'm Bhanu Prakash
-# Here are some ideas to get you started:
 * 🏫 I'm an NITIAN at @NITKKR
 * 💻 MERN STACK DEVELOPER
 
