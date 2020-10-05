@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Bhanu Prakash :man_technologist:
-* 🏫 I'm an NITIAN at @NITKKR
+* 🏫 I'm a Student at @NITKKR
 * 💻 WEB DEVELOPER
 
 # FOLLOW ME: ⬇️
