@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhanu Prakash Akepogu</h1>
-- 🔭 Interned at Freecharge and worked on **Digital Design System of Axis Bank**
+- 🔭 Interned at Freecharge and worked on Digital Design System of Axis Bank
 
 - 💬 Ask me about **React**
 
