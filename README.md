@@ -30,24 +30,6 @@ FastAPI + React + PostgreSQL stack, fully dockerized. Real-time fraud detection,
 
 ---
 
-## 💼 Experience
-
-- **Systems Engineer @ Societe Generale** (2022–2023)  
-  ⚡ Built Python automation tools saving 20+ hours/month  
-  ⚡ Optimized PostgreSQL queries (–30% latency)  
-  ⚡ Flask ticket portal & Grafana dashboards → faster issue resolution
-
-- **Frontend Intern @ Freecharge** (2021)  
-  ⚡ Developed reusable React components  
-  ⚡ Created a scalable Design System, improving dev speed by 30%
-
----
-
-## 🎓 Education
-**Clark University** – M.S. Computer Science (2024–2025) | GPA: 3.83
-
----
-
 ## 📊 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhnprksh222&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhnprksh222&layout=compact&theme=tokyonight)
